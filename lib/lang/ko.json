@@ -1,0 +1,15 @@
+{
+    "home_page": "홈페이지",
+    "personal_info": "개인 정보",
+    "name": "이름",
+    "name_hint": "이름을 입력하십시오",
+    "email": "이메일",
+    "email_hint": "이메일 주소 입력",
+    "date_of_birth": "생년월일",
+    "required_fieid": "필수 필드",
+    "submit_info": "제출 정보",
+    "about_us": "회사 소개",
+    "setting": "설정",
+    "change_language": "언어 변경",
+    "about": "Lorem Ipsum은 단순히 인쇄 및 조판 산업의 더미 텍스트입니다."
+}

@@ -1,0 +1,15 @@
+{
+    "home_page": "ホームページ",
+    "personal_info": "個人情報",
+    "name": "名前",
+    "name_hint": "名前を入力してください",
+    "email": "メール",
+    "email_hint": "メールアドレスを入力してください",
+    "date_of_birth": "生年月日",
+    "required_fieid": "必須フィールド",
+    "submit_info": "送信情報",
+    "about_us": "私たちについて",
+    "setting": "設定",
+    "change_language": "言語を変更",
+    "about": "Lorem Ipsumは、印刷および組版業界の単なるダミーテキストです。"
+}

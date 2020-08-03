@@ -1,0 +1,15 @@
+{
+    "home_page": "Màn hình chính",
+    "personal_info": "Thông tin cá nhân",
+    "name": "Tên",
+    "name_hint": "Nhập tên của bạn",
+    "email": "Thư điện tử",
+    "email_hint": "Nhập địa chỉ thư điện tử của bạn",
+    "date_of_birth": "Ngày sinh",
+    "required_fieid": "Trường bắt buộc",
+    "submit_info": "Gửi thông tin",
+    "about_us": "Về chúng tôi",
+    "setting": "Cài đặt",
+    "change_language": "Thay đổi ngôn ngữ",
+    "about": "Lorem Ipsum chỉ đơn giản là văn bản giả của ngành công nghiệp in ấn và sắp chữ"
+}
